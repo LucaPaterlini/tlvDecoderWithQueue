@@ -2,8 +2,8 @@
 package main
 
 import (
-	"../tlvConverter"
 	"flag"
+	"github.com/LucaPaterlini/tlvDecoderWithQueue/tlvConverter"
 	"log"
 	"os"
 	"time"
